@@ -13,3 +13,5 @@ To move the snake we can use the four arrow buttons. up-bottom-left-right.
 ![Title screen](https://raw.githubusercontent.com/Vansh16aug/snake-game/main/screenshots/snake2.PNG)
 
 ![Play screen](https://raw.githubusercontent.com/Vansh16aug/snake-game/main/screenshots/snake1.PNG)
+
+### Made by Vansh Kumar
